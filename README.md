@@ -38,14 +38,15 @@
       <label for="others">others</label>
      </form>
    
-   
-
-     <p>Enter your address:</p>
-     <form action="file:///C:/Users/person%202/Desktop/index/index.html/ASSIGN.HTML/ASSIGNMENT..HTML">
-        <input type="" width90px="" height="" 100px="checkbox">
+   <form action="">
+        <input type width90px height 100px="checkbox">
      </form>
-     <form action="file:///C:/Users/person%202/Desktop/index/index.html/ASSIGN.HTML/ASSIGNMENT..HTML">
+     <form action="">
       <button type="submit">submit</button>
      </form>
+
+     <p>Enter your address:</p>
+     
    
-</body></html>
+</body>
+</html>
